@@ -1,0 +1,17 @@
+emoji
+emot
+contractions
+numpy
+pandas
+lexsub
+scikit-learn
+transformers
+tensorflow
+torch
+pyarrow
+datasets
+sklearn
+nltk
+gensim
+spacy
+pickle
